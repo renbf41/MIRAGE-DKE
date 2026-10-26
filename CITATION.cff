@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the MIRAGE conference paper and the journal extension when available."
+title: "MIRAGE-DKE: Multi-intent reasoning and coverage for graph-based recommendation"
+type: software
+repository-code: "https://github.com/renbf41/MIRAGE-DKE"
+authors:
+  - family-names: Ren
+    given-names: Baofeng
+  - family-names: Yang
+    given-names: Tianyuan
+  - family-names: Gu
+    given-names: Chenghao
+  - family-names: Ma
+    given-names: Boxuan
+  - family-names: Konomi
+    given-names: "Shin'ichi"
